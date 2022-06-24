@@ -1,8 +1,8 @@
 # Teste de versionamento sem IDE  
 
-Repositório criado para testar versionamento feito pela linha de comando ao branch master.  
-Trata-se de uma das atividades propostas durante o curso _Dominando IDEs Java_, que integra  
-o bootcamp GFT  Woman Java, disponibilizado na plataforma [Digital Innovation One Inc](https://web.dio.me/).  
+<p align="justify">  
+Repositório criado para testar versionamento feito pela linha de comando ao branch master. Trata-se de uma das atividades propostas durante o curso "Dominando IDEs Java", que integra os bootcamps GFT Start Woman Java e GFT Start #5 Java, disponibilizados na plataforma https://web.dio.me/.  
+</p>
 
 ---
 
