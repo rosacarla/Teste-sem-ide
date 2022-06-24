@@ -8,10 +8,10 @@ o bootcamp GFT  Woman Java, disponibilizado na plataforma [Digital Innovation On
 
 ## ↪️Versionamento  
 
-Código: [PrimeiroPrograma.java](https://github.com/rosacarla/Teste-sem-ide/blob/master/PrimeiroPrograma.java)  
+Nome do projeto: Primeiro Programa  
 Finalidade: demonstrar a criação de classe em Java  
-Localização: branch [master](https://github.com/rosacarla/Teste-sem-ide/tree/master)  
-
+Localização da versão de código: ver branch [master](https://github.com/rosacarla/Teste-sem-ide/tree/master)   
+Código: [PrimeiroPrograma.java](https://github.com/rosacarla/Teste-sem-ide/blob/master/PrimeiroPrograma.java)  
 
 ---
 
